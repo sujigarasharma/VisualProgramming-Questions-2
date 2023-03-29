@@ -1,4 +1,4 @@
-# VisualProgramming-2
+# VisualProgramming-PracticeQuestions2
 
 Q1)
 Display the following detail in the List View control
