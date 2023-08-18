@@ -1,7 +1,7 @@
-# VisualProgramming-PracticeQuestions2
+# VisualProgramming Questions 2
 
 Q1)
-Display the following detail in the List View control
+Display the following detail in the ListView control
 i) Your Registration Number
 ii) Your Name
 iii) Age
